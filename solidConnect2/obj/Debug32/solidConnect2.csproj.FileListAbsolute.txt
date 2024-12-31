@@ -1,0 +1,10 @@
+C:\Users\r.hudson\Documents\WORK\projects\Frontis3D\P2\solidworks\solidConnect2\solidConnect2\obj\Debug32\solidConnect2.csprojResolveAssemblyReference.cache
+C:\Users\r.hudson\Documents\WORK\projects\Frontis3D\P2\solidworks\solidConnect2\solidConnect2\bin\solidConnect2.dll
+C:\Users\r.hudson\Documents\WORK\projects\Frontis3D\P2\solidworks\solidConnect2\solidConnect2\bin\solidConnect2.pdb
+C:\Users\r.hudson\Documents\WORK\projects\Frontis3D\P2\solidworks\solidConnect2\solidConnect2\obj\Debug32\solidConnect2.dll
+C:\Users\r.hudson\Documents\WORK\projects\Frontis3D\P2\solidworks\solidConnect2\solidConnect2\obj\Debug32\solidConnect2.pdb
+C:\Users\r.hudson\AppData\Roaming\Grasshopper\Libraries\solidConnect2.dll
+C:\Users\r.hudson\AppData\Roaming\Grasshopper\Libraries\solidConnect2.pdb
+C:\Users\r.hudson\Documents\WORK\projects\Frontis3D\P2\solidworks\solidConnect2180305\solidConnect2\obj\Debug32\solidConnect2.csprojResolveAssemblyReference.cache
+C:\Users\r.hudson\Documents\WORK\projects\Frontis3D\P2\solidworks\solidConnect2180305\solidConnect2\obj\Debug32\solidConnect2.dll
+C:\Users\r.hudson\Documents\WORK\projects\Frontis3D\P2\solidworks\solidConnect2180305\solidConnect2\obj\Debug32\solidConnect2.pdb

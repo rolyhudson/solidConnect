@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solidConnect2", "solidConnect2\solidConnect2.csproj", "{5DC5EE6A-895D-4854-99F5-232E2A6FB8EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug32|Any CPU = Debug32|Any CPU
+		Debug64|Any CPU = Debug64|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DC5EE6A-895D-4854-99F5-232E2A6FB8EC}.Debug32|Any CPU.ActiveCfg = Debug32|Any CPU
+		{5DC5EE6A-895D-4854-99F5-232E2A6FB8EC}.Debug32|Any CPU.Build.0 = Debug32|Any CPU
+		{5DC5EE6A-895D-4854-99F5-232E2A6FB8EC}.Debug64|Any CPU.ActiveCfg = Debug64|Any CPU
+		{5DC5EE6A-895D-4854-99F5-232E2A6FB8EC}.Debug64|Any CPU.Build.0 = Debug64|Any CPU
+		{5DC5EE6A-895D-4854-99F5-232E2A6FB8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DC5EE6A-895D-4854-99F5-232E2A6FB8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
